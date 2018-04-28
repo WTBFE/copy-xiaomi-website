@@ -247,7 +247,7 @@ $(function() {
         var $li = $("#contentsub .con-con .c-li");
         var $btn = $("#contentsub .con-con .c-li .btn a");
         var len = $wrap.length;
-        //jiashuxing 
+        //jiashuxing
         $wrap.each(function() {
             this.a = 0
         })
@@ -309,5 +309,4 @@ $(function() {
         })
     })();
     //contentsub end
-
 })
