@@ -308,5 +308,4 @@ $(function() {
             $("#contentsub .con-con .c-li .tab").eq(nowindex).find("li").eq($wrap.eq(nowindex).get(0).a).stop(true).addClass('active').siblings().removeClass('active');
         })
     })();
-    //contentsub end
 })
