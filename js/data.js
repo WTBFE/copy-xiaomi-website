@@ -1,14 +1,3 @@
-/* 
-* @Author: anchen
-* @Date:   2016-08-11 22:11:42
-* @Last Modified by:   anchen
-* @Last Modified time: 2016-08-14 09:02:07
-*/
-
-// $(document).ready(function(){
-    
-// });
-
 (function(){
     miData = {
         //starGoods
@@ -41,7 +30,6 @@
             },
             length:4,
             attr:["hot","ear","power","card"]
-
         }
     }
 })();
